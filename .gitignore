@@ -65,3 +65,7 @@ typings/
  
 # vscode
 .vscode
+
+# IntelliJ IDEa
+.idea
+*.iml
